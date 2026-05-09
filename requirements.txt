@@ -1,0 +1,6 @@
+﻿
+Libraries used in the code. 
+
+requests 
+beautifulSoup4
+
